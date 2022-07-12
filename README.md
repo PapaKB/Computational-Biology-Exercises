@@ -1,5 +1,5 @@
 # Hybrid Images
-Using convolution to construct hybrid images with the OpenIMAJ libraries and tools.
+2021 Project: Using convolution to construct hybrid images with the OpenIMAJ libraries and tools.
 
 ## What I Learned
 * Generating high pass filter and low pass filter images
